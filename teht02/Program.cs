@@ -25,7 +25,7 @@ namespace teht02
                 amplifier.Volume = luku;
 
                 Console.WriteLine("Amplifiers volume is set to " + amplifier.Volume);
-
+                // asd
             } while (lopetus != -1);
             Console.WriteLine("Amplifier is turned off!");
         }
